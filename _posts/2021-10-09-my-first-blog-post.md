@@ -1,3 +1,5 @@
 Theme: Minima
-Title: First Blog
+Title: "First Blog"
+---
+Date: "09-10-2021
 ---
