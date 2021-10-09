@@ -1,5 +1,4 @@
-Theme: Minima
-Title: "First Blog"
 ---
-Date: "09-10-2021
+title: "Your blog post title"
+date: 2021-10-09
 ---
